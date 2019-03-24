@@ -38,3 +38,5 @@
 练习使用UMLet
 
 UML和模式应用  83页
+
+![UMLet](UMLet.png)

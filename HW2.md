@@ -34,3 +34,7 @@
 •	至少包含一个团队活动任务
 
 ![kanban](kanban.PNG)
+
+练习使用UMLet
+
+UML和模式应用  83页

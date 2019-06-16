@@ -32,8 +32,12 @@ room catalog(type)
 
 对Make Reservation用例开展领域建模
 
+![1](1.png)
+
 
 对payment用例开展领域建模
+
+![2](2.png)
 
 2、使用 UML State Model，对每个订单对象生命周期建模 
 
@@ -43,4 +47,7 @@ room catalog(type)
 
 请参考现在 定旅馆 的旅游网站，尽可能分析围绕订单发生的各种情况，
 
+
 直到订单通过销售事件（柜台销售）结束订单。 
+
+![3](3.png)

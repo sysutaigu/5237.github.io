@@ -7,3 +7,7 @@
 
 
 [HW6](HW6.md)
+
+[HW7](HW7.md)
+
+[HW9](HW9.md)
